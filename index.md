@@ -21,7 +21,7 @@ $$ \dot{Q}_s = m_s c_{ps} \Delta T + m_r c_{pr} \Delta T + \dot{Q}_\text{s,conv}
 
 $$ \dot{Q}_\text{s,conv} = h A_s (T - T_f) \qquad\qquad \dot{Q}_\text{r,conv} = h A_r (T - T_f) $$
 
-Usually we expect $\dot{Q}_{\text{s,conv}} \approx \dot{Q}_{\text{r,conv}}$ but here the two contact surfaces with the convective gas are very different $A_r\ll A_s$. This unavoidable difference result in a permanent baseline in the heat flux vs. tempeature curve. 
+Usually we expect $\dot{Q}_{s,conv} \approx \dot{Q}_{r,conv}$ but here the two contact surfaces with the convective gas are very different $A_r\ll A_s$. This unavoidable difference result in a permanent baseline in the heat flux vs. tempeature curve. 
 
 The heating/cooling of the system is done via the dissipative resistors. The machine is able to measure and control the heat provided to the system in order to follow a predetermined thermal profile (method), i.e. temperature vs. time. The result is a measure of the rate of heat flow (mJ/s or mW) vs. temperature (ºC or K).
 
