@@ -21,11 +21,9 @@ $$ \dot{Q}_s = m_s c_{ps} \Delta T + m_r c_{pr} \Delta T + \dot{Q}_\text{s,conv}
 
 $$ \dot{Q}_\text{s,conv} = h A_s (T - T_f) \qquad\qquad \dot{Q}_\text{r,conv} = h A_r (T - T_f) $$
 
-Usually we expect $\dot{Q}_\text{s,conv}\approx\dot{Q}_\text{r,conv}$ but here the two contact surfaces with the convective gas are very different $A_r\ll A_s$. This unavoidable difference result in a permanent baseline in the heat flux vs. tempeature curve. 
+Usually we expect $\dot{Q}_\text{s,conv} \approx \dot{Q}_\text{r,conv}$ but here the two contact surfaces with the convective gas are very different $A_r\ll A_s$. This unavoidable difference result in a permanent baseline in the heat flux vs. tempeature curve. 
 
 The heating/cooling of the system is done via the dissipative resistors. The machine is able to measure and control the heat provided to the system in order to follow a predetermined thermal profile (method), i.e. temperature vs. time. The result is a measure of the rate of heat flow (mJ/s or mW) vs. temperature (ºC or K).
-
-
 
 The typical heating curve shows an almost linear trend in the first phase until the glass transition is reached. Here it undergoes a positive peak that is associated to the release of energy (exoergonic). Then it keeps to increase linearly but with a different slope. From such a slope the dependence of the specific heat with respect to the temperature can be inferred (see Debye and Einstein models, degrees of freedom, etc.). The higher the heating rate the lower the peak height because the glass is able to release more energy during slower thermal processes.
 
