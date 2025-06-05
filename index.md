@@ -1,4 +1,7 @@
-# Notes – Inroduction to Research (a.y. 24-25)
+<script src="https://tikzjax.com/v1/tikzjax.js"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script> <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+# Notes – Introduction to Research (a.y. 24-25)
 
 ## June 05
 
